@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-[
-Captura de Pantalla 2021-09-07 a la(s) 15.45.23.png]
+![Mobile screenshot](/images/Captura de Pantalla 2021-09-07 a la(s) 15.45.23.png)
 
 ### Links
 
